@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/YitingLiu97/authentic_or_not_final#readme",
   "dependencies": {
-    "http": "0.0.1-security"
+    
+    "http-server": "^0.12.1"
   }
 }
