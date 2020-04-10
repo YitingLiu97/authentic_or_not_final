@@ -4,7 +4,7 @@ node_modules
 <!-- A one sentence description of the project or assignment -->
 Authentic or Not is an educational cooking game for young children. It was created by Yiting Liu and Shannel Doshi for 2019 ITP Winter Show. 
 
-[Demo here.]()
+[Demo here.](https://authentic-or-not.herokuapp.com/)
 [Official website here.](https://authenticorbust.wixsite.com/authenticornot)
 
 
@@ -46,7 +46,7 @@ Clone the repo and follow the setup steps.
 <!-- Notes about the deployment -->
 ### Deployment
 
-This project is hosted on Github, deployed on Glitch.
+This project is hosted on Github, deployed on Heroku.
 
 ## Built with
 
