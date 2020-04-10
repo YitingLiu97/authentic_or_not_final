@@ -1,4 +1,3 @@
-node_modules
 <!-- Every README should start with an H1 -->
 # Authentic or Not  
 <!-- A one sentence description of the project or assignment -->
